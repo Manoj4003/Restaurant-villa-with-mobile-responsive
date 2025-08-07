@@ -94,8 +94,7 @@ p {
  
 }
 @media (min-width:320px) and (max-width:480px) {
-   
-    .mobile-view-image img {
+   .mobile-view-image img {
         width: 100%;
     }
     .mobile-view-marigin {
@@ -135,6 +134,9 @@ p {
     }
     .carousel-caption h5{
         font-size: 20px;
+    }
+    .copyrights-part{
+        margin-top: 1000px !important;
     }
 
 }
